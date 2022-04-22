@@ -83,8 +83,4 @@ export default {
     text-decoration: none;
 }
 
-
-.hovering{
-    font-size: 12px;
-}
 </style>

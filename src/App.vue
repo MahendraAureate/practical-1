@@ -8,7 +8,6 @@
 
 import ProductComp from './components/ProductComp.vue'
 
-
 export default {
     name: 'App',
     components: {
