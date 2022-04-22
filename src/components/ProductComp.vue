@@ -25,7 +25,6 @@ export default {
         return {
             selectedCard : -1,
             products : productdata,
-            // isHover: false
         }
     },
     methods: {
@@ -53,10 +52,6 @@ export default {
     height: 100%;
     -o-object-fit: cover;
     object-fit: cover;
-}
-.product-item a {
-    /* display: block;
-    height: 100%; */
 }
 
 .down-content {
