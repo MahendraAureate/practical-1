@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "ProductTitle" : "Product 1",
+        "ProdutDesc" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum, explicabo?",
+        "productImage" : "https://i.postimg.cc/9QZW5Cwb/product-01.jpg"
+    },
+    {
+        "id" : 2,
+        "ProductTitle" : "Product 2",
+        "ProdutDesc" :"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum, explicabo?",
+        "productImage" : "https://i.postimg.cc/J7FmsGbK/product-02.jpg"
+    },
+    {
+        "id" : 3,
+        "ProductTitle" : "Product 3",
+        "ProdutDesc" :"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum, explicabo?",
+        "productImage" : "https://i.postimg.cc/0QFk1Qnt/product-03.jpg"
+    },
+    {
+        "id" : 4,
+        "ProductTitle" : "Product 4",
+        "ProdutDesc" :"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum, explicabo?",
+        "productImage" : "https://i.postimg.cc/JzpWW04b/product-04.jpg"
+    },
+    {
+        "id" : 5,
+        "ProductTitle" : "Product 5",
+        "ProdutDesc" :"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum, explicabo?",
+        "productImage" : "https://i.postimg.cc/htyN5Yps/product-05.jpg"
+    },
+    {
+        "id" : 6,
+        "ProductTitle" : "Product 6",
+        "ProdutDesc" :"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum, explicabo?",
+        "productImage" : "https://i.postimg.cc/L8XbLT21/product-06.jpg"
+    },
+    {
+        "id" : 7,
+        "ProductTitle" : "Product 7",
+        "ProdutDesc" :"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum, explicabo?",
+        "productImage" : "https://i.postimg.cc/9QZW5Cwb/product-01.jpg"
+    },
+    {
+        "id" : 8,
+        "ProductTitle" : "Product 8",
+        "ProdutDesc" :"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum, explicabo?",
+        "productImage" : "https://i.postimg.cc/J7FmsGbK/product-02.jpg"
+    }
+]
