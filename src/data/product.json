@@ -40,5 +40,11 @@
         "ProductTitle" : "Product 7",
         "ProdutDesc" :"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum, explicabo?",
         "productImage" : "https://i.postimg.cc/9QZW5Cwb/product-01.jpg"
+    },
+    {
+        "id" : 8,
+        "ProductTitle" : "Product 8",
+        "ProdutDesc" :"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum, explicabo?",
+        "productImage" : "https://i.postimg.cc/J7FmsGbK/product-02.jpg"
     }
 ]
