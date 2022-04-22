@@ -1,17 +1,17 @@
 <template>
     <div id="app">
-      <ProductComp/>
+      <ProductList/>
     </div>
 </template>
 
 <script>
 
-import ProductComp from './components/ProductComp.vue'
+import ProductList from './components/ProductList.vue'
 
 export default {
     name: 'App',
     components: {
-        ProductComp
+        ProductList
     }
 }
 </script>
