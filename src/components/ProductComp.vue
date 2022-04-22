@@ -1,7 +1,7 @@
 <template>
     <div class="container">
         <div class="row">
-            <div class="col-md-4 product__item_parent" v-for="product in products" :key="product.id" >
+            <div class="product__item_parent" v-for="product in products" :key="product.id" >
                 <!-- <div class="product-item" @mouseover="isHover = true" @mouseleave="isHover = false"> -->
                 <div class="product-item" @mouseover="hoverCard(product.id)" @mouseout="hoverCard(-1)">
                     <img :src="product.productImage" alt="">

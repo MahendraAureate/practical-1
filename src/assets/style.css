@@ -23,7 +23,7 @@ nav{
     margin-right: -15px;
     margin-left: -15px;
 }
-.col-md-4 {
+.product__item_parent {
     flex: 0 0 33.333333%;
     max-width: 33.333333%;
     padding-right: 15px;
