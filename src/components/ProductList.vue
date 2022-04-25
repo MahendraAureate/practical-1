@@ -5,12 +5,10 @@
                 <!-- <div class="product-item" @mouseover="isHover = true" @mouseleave="isHover = false"> -->
                 <div class="product-item" @mouseover="hoverCard(product.id)" @mouseout="hoverCard(-1)">
                     <img :src="product.productImage" alt="">
-                    <router-link  :to="'product/'+product.id">
                         <div class="down-content" :class="{'selected': isSelected(product.id)}">
                             <h4>{{product.ProductTitle}}</h4>
                             <p>{{product.ProdutDesc}}</p>
                         </div>
-                    </router-link>
                 </div> 
             </div>
         </div>
