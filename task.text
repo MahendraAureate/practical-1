@@ -1,0 +1,7 @@
+Task definition: Products grid custom component																								
+Overview: Create a custom product component which is responsible for display product grids with image & on hover it should display the product title																									
+																									
+Task1: Create a custom Component for product images grid (call it from static json)																									
+Task2: Call it on main page including some basic design (padding + margin + next to each other)																									
+Task3: Handle event on image hover
+Task4: Host your practical on GitHub + Netlify
